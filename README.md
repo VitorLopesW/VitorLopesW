@@ -71,7 +71,7 @@
 
 ###
 
-<div align="center">
+<div align="center" border="1px solid black">
   <img src="https://github-readme-stats.vercel.app/api?username=VitorLopesW&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 
   ###
