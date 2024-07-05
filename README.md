@@ -55,7 +55,7 @@
   <img width="12" />
   <img src="https://cdn.discordapp.com/attachments/315674918664536065/1258771571628048495/Adobe_Premiere_Pro_CC_icon.svg.png?ex=668941e1&is=6687f061&hm=d24d4d92eb31c22aca239e7f41614358ae0a3b16c058c6daeb5162b4ca34053a&)" height="40" alt="premierepro logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img src="https://cdn.discordapp.com/attachments/315674918664536065/1258772129827131414/Blender_logo_no_text.svg.png?ex=66894266&is=6687f0e6&hm=db570f95bab1472d8d3eb4c906c4d9d62cff7eed210a412b58764cda87879337&" height="40" alt="blender logo"  />
 </div>
 
 ###
