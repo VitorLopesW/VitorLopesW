@@ -6,7 +6,11 @@
 ✍️ - Illustrator and graphic designer.
 
 
+<h1> > My Skills: </h1>
+<br>
+
 Experiencie in front-end:
+
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,saas)](https://skillicons.dev)
