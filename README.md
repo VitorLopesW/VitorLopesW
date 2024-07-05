@@ -49,11 +49,11 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.discordapp.com/attachments/315674918664536065/1258771571322126460/Adobe_Photoshop_CC_icon.svg.png?ex=668941e1&is=6687f061&hm=7ba737f83e864ebf6759185251994eb6f67d7111f09907751539ce82d117d28c&" height="40" alt="photoshop logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img src="https://cdn.discordapp.com/attachments/315674918664536065/1258771572160860180/Adobe_Illustrator_CC_icon.svg.png?ex=668941e1&is=6687f061&hm=c32f358bb6ca86b6204ce8044095431d37dfdc8820b29813e7c6019e5fb241b9&" height="40" alt="illustrator logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg](https://cdn.discordapp.com/attachments/315674918664536065/1258771571628048495/Adobe_Premiere_Pro_CC_icon.svg.png?ex=668941e1&is=6687f061&hm=d24d4d92eb31c22aca239e7f41614358ae0a3b16c058c6daeb5162b4ca34053a&)" height="40" alt="premierepro logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
