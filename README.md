@@ -6,5 +6,9 @@
 ✍️ - Illustrator and graphic designer.
 
 
-[!(https://nodejs-serverless-function-express-ex8e6ulrn.vercel.app/api/hello)]
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+Experiencie in front-end:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,saas)](https://skillicons.dev)
+<hr>
+Experiencie in Back-end:
+[![My Skills](https://skillicons.dev/icons?i=node,python,c++)](https://skillicons.dev)
+
