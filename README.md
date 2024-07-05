@@ -6,4 +6,4 @@
 ✍️ - Illustrator and graphic designer.
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://nodejs-serverless-function-express-ex8e6ulrn.vercel.app/api/hello))]
