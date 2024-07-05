@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="left">Full stack developer with extensive expertise in graphic design and illustration.</h2>
+<h2 align="left">Full stack developer with extensive expertise in graphic design and illustration.</h2>
 
 ###
 
