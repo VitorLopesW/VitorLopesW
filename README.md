@@ -10,5 +10,6 @@ Experiencie in front-end:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,saas)](https://skillicons.dev)
 <hr>
 Experiencie in Back-end:
-[![My Skills](https://skillicons.dev/icons?i=node,python,c++)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=node,c++,css,saas)](https://skillicons.dev)
 
