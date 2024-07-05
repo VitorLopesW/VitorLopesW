@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="left">About me:</h1>
+<h1 align="center">About me:</h1>
 
 ###
 
-<h3 align="left">Full stack developer with extensive expertise in graphic design and illustration.</h3>
+<h3 align="center">Full stack developer with extensive expertise in graphic design and illustration.</h3>
 
 ###
 
