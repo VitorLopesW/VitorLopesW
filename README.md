@@ -16,6 +16,11 @@
 
 ###
 
+<h3 align="center">Languages:</h3>
+
+###
+
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -30,7 +35,27 @@
 
 ###
 
+<h3 align="center">Frameworks:</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+</div>
+
+###
+
 <h2 align="center">Experience in back-end:</h2>
+
+###
+
+<h3 align="center">Languages:</h3>
 
 ###
 
@@ -43,12 +68,14 @@
   
   ###
   
-  <h2 align="center">Databases I work with:</h2>
+<h3 align="center">Databases:</h3>
+
   
   ###
 
   
   <img src="https://media.discordapp.net/attachments/315674918664536065/1258897824498585610/Postgresql_elephant.svg.png?ex=6689b776&is=668865f6&hm=cf2eb2c3e932856af868edbceb0108cc80491b80861a12e304c2f4f5825438b2&=&format=webp&quality=lossless&width=574&height=592" height="40" alt="cplusplus logo"  />
+    <img width="12" />
   <img src="https://media.discordapp.net/attachments/315674918664536065/1258898397210087514/sqlite.png?ex=6689b7ff&is=6688667f&hm=e75e588cdee85a4068f76639d5851823e4ebe64d69d4c53edfc1d1c1ace9ae51&=&format=webp&quality=lossless&width=592&height=592" height="40" alt="cplusplus logo"  />
   
 </div>
@@ -56,6 +83,7 @@
 ###
 
 <h2 align="center">Others expertise:</h2>
+
 
 ###
 
